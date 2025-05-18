@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='beatrica-git',
-    version='0.1.1',
+    version='2025.5.180925',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='A Python package for analyzing git differences between branches in a local repository.',
